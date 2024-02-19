@@ -1,0 +1,52 @@
+Name,Age,Email,Address,Role,Year,Employee ID,Performance,Tags,Current Work,Status,Team,Project Role,Work Status,Start Date,End Date,Performance Rate,Leave Type,Number of Days,Status,Feedback
+joe,23,mike@gmail,new york,developer,2003,EMP010,good, good,developer,Active,team 5,developer, complete,20-01-2003,20-03-2003,94%,sick,2,pending, Get well soon
+Robert Nguyen,36,robertnguyen@email.com,808 Spruce St,Manager,2023,EMP011,Excellent,good,Operations Management,Active,team 6,Operations Manager,Full-time,20-05-2022,21-03-2003,93%,none,0,nill,nill
+Michelle Kim,26,michellekim@email.com,909 Pine St,Manager,2024,EMP012,good,good,content creator,Active,team 7,Content Creator,Full-time,20-03-2023,22-03-2003,92%,Vacation,10,approved,enjoy your vacation
+William Anderson,38,williamand@email.com,1010 Oak St,Analyst,2022,EMP013,Excellent,good,developer,Active,team 8,Team Management,Full-time,21-03-2023,23-03-2003,91%,sick,5,approved,get well soon
+Stephanie Garcia,31,stephgar@email.com,1111 Elm St,Engineer,2021,EMP014,good,good,software developer,Active,team 9,Engineering Team,Full-time,22-03-2023,24-03-2003,82%,none,0,nill,nill
+Daniel Wright,39,danwright@email.com,1212 Walnut St,Marketing,2023,EMP015,good,good,product designer,Active,team 10,Training Coordinator,Full-time,23-03-2023,25-03-2003,95%,Maternity Leave,12,approved,congratulations
+Ashley Hall,28,ashleyhall@email.com,1313 Maple St,HR,2022,EMP016,good,good,management team,Active,team 11,Marketing Specialist,Full-time,24-03-2023,26-03-2003,88%,none,0,nill,nill
+Matthew Martinez,32,mattmartinez@email.com,1414 Ash St,Developer,2021,EMP017,Excellent,good,financial analyst,Active,team 12,Senior Engineer,Full-time,25-03-2023,27-03-2003,77%,Personal,2,approved,nill
+Amanda Scott,30,amandascott@email.com,1717 Spruce St,Designer,2024,EMP018,Excellent,good,developer,Active,team 1,HR Specialist,Full-time,26-03-2023,28-03-2003,79%,Personal,7,pending,nill
+Christopher Evans,35,chrisevans@email.com,1515 Birch St,Manager,2023,EMP019,good,good,Training,Active,team 2,Content Creator,Full-time,27-03-2023,29-03-2003,65%,Personal,8,pending,nill
+Megan Phillips,29,meganphillips@email.com,1616 Poplar St,Analyst,2022,EMP020,Excellent,good,Training,Active,team 3,Training Coordinator,Full-time,28-03-2023,30-03-2003,92%,sick,7,approved,get well soon
+John Doe,30,johndoe@example.com,505 Ash St,developer,2021,EMP021,good,good,Training,Active,team 4,Team Management,Full-time,29-03-2023,31-03-2003,92%,Vacation,8,approved,enjoy your vacation
+Jane Smith,30,janesmith@email.com,404 Maple St,developer,2020,EMP022,Excellent,good,Training,Active,team 17,team leader,Full-time,30-03-2023,01-04-2003,92%,Personal,2,approved,nill
+Michael Johnson,30,michaelj@email.com,303 Walnut St,developer,2022,EMP023,good,good,Training,Active,team 18,team leader,Full-time,31-03-2023,02-04-2003,92%,Maternity Leave,13,approved,congratulations
+Sarah Lee,30,sarahlee@email.com,202 Cedar St,developer,2022,EMP024,Excellent,good,Training,Active,team 19,team leader,Full-time,01-04-2023,03-04-2003,94%,Vacation,2,pending,nill
+"Emily Taylor,",30,emilytaylor@email.com,606 Birch St,developer,2023,EMP025,good,good,Training,Active,team 20,team leader,Full-time,02-04-2023,04-04-2003,85%,sick,2,approved,get well soon
+David Brown,30,davidbrown@email.com,707 Poplar St,HR,2020,EMP026,good,good,Training,Active,team 21,team leader,Full-time,03-04-2023,05-04-2003,94%,sick,3,approved,get well soon
+Christopher Clark,30,chrisclark@email.com,101 Pine St,HR,2023,EMP027,good,good,Training,Active,team 22,team leader,Full-time,04-04-2023,06-04-2003,92%,sick,4,approved,get well soon
+Amanda Whit,30,amandawhite@email.com,101 Pine St,Analyst,2024,EMP028,Excellent,good,Training,Active,team 23,team leader,Full-time,05-04-2023,07-04-2003,92%,none,0,nill,nill
+Kevin Martinez,30,kevinmartinez@email.com,456 Elm St,Analyst,2021,EMP029,Excellent,good,Software Developer,Active,team 24,team leader,Full-time,06-04-2023,08-04-2003,88%,sick,1,approved,get well soon
+Jessica Rodriguez,30,jessicar@email.com,123 Main St,Analyst,2023,EMP030,excellent,good,Software Developer,Active,team 25,team leader,Full-time,07-04-2023,09-04-2003,92%,Vacation,4,pending,nill
+madhu,30,madhu@email,808 Spruce St,Manager,2023,EMP031,excellent,good,Software Developer,Active,team 26,Sales Analyst,Full-time,08-04-2023,10-04-2003,92%,none,0,0,nill
+govind,34,govind@email,808 Spruce St,Manager,2023,EMP032,excellent,good,Software Developer,Active,team 27,Sales Analyst,Full-time,09-04-2023,11-04-2003,76%,Vacation,5,approved,enjoy your vacation
+shaym datta,35,shaym datta@email,1515 Birch St,Manager,2023,EMP033,excellent,good,Software Developer,Active,team 28,Sales Analyst,Full-time,10-04-2023,12-04-2003,94%,Vacation,5,pending,nill
+karthik,36,karthik@email,1414 Ash St,Manager,2024,EMP034,excellent,good,Software Developer,Active,team 29,Sales Analyst,Full-time,11-04-2023,13-04-2003,92%,sick,2,approved,get well soon
+varma harish,37,varma harish@email,1415 Ash St,Manager,2024,EMP035,excellent,good,Software Developer,Active,team 30,Sales Analyst,Full-time,12-04-2023,14-04-2003,92%,Vacation,4,approved,enjoy your vacation
+mukhesh,34,mukhesh@email,1416 Ash St,Marketing,2021,EMP036,excellent,good,Sales Analyst,Active,team 31,Sales Analyst,Full-time,13-04-2023,15-04-2003,92%,Vacation,4,approved,enjoy your vacation
+ashok,35,ashok@email,1417 Ash St,developer,2020,EMP037,good,good,Sales Analyst,Active,team 32,Financial Analyst,Full-time,14-04-2023,16-04-2003,92%,Vacation,4,approved,enjoy your vacation
+varsha ,32,varsha@email,1418 Ash St,HR,2021,EMP038,good,good,Sales Analyst,Active,team 33,Training Coordinator,Full-time,15-04-2023,17-04-2003,92%,sick,1,approved,get well soon
+sammera,21,sammera@email,1111 Elm St,Engineer,2021,EMP039,good,good,Sales Analyst,Active,team 34,Analytics Team,Full-time,16-04-2023,18-04-2003,92%,none,0,nill,nill
+vivek,23,vivek@email,1112 Elm St,Engineer,2021,EMP040,good,good,Product Designer,Active,team 10,Team Management,Full-time,17-04-2023,19-04-2003,82%,none,0,nill,nill
+mahesh,24,mahesh@email,1113 Elm St,Engineer,2021,EMP041,good,good,Product Designer,Active,team 11,Training Coordinator,Full-time,18-04-2023,20-04-2003,83%,sick,1,approved,get well soon
+john kim,25,john kim@email,1114 Elm St,Engineer,2021,EMP042,good,good,Product Designer,Active,team 12,Analytics Team,Full-time,19-04-2023,21-04-2003,84%,none,0,nill,nill
+vidya kumar,28,vidya kumar@email,1115 Elm St,Engineer,2022,EMP043,good,good,Product Designer,Active,team 13,Financial Analyst,Full-time,20-04-2023,22-04-2003,96%,none,0,nill,nill
+rahul,34,rahul@email,1116 Elm St,Engineer,2023,EMP044,good,good,Product Designer,Active,team 14,Team Management,Full-time,21-04-2023,23-04-2003,88%,none,0,nill,nill
+Megan Phillips,34,Megan Phillips@email,1117 Elm St,developer,2024,EMP045,good,good,Product Designer,Active,team 15,Sales Analyst,Full-time,22-04-2023,24-04-2003,87%,sick,1,approved,get well soon
+adarsh,23,adarsh@email,1010 Oak St,sales,2024,EMP046,Excellent,good,Product Designer,Active,team 16,Team Management,Full-time,23-04-2023,25-04-2003,87%,Personal,2,approved,nill
+kumar jain,45,kumar jain@email,1011 Oak St,sales,2024,EMP047,Excellent,good,Product Designer,Active,team 17,Financial Analyst,Full-time,24-04-2023,26-04-2003,95%,Vacation,3,pending,nill
+rakesh,34,rakesh@email,1012 Oak St,sales,2023,EMP048,Excellent,good,Product Designer,Active,team 18,Software Developer,Full-time,25-04-2023,27-04-2003,94%,Maternity Leave,10,approved,congratulations
+santhosh,43,santhosh@email,1013 Oak St,Marketing,2022,EMP049,Excellent,good,Product Designer,Active,team 19,Software Developer,Full-time,26-04-2023,28-04-2003,92%,sick,3,pending,get well soon
+priya,21,priya@email,1014 Oak St,graphic designer,2022,EMP050,Excellent,good,Product Designer,Active,team 20,Software Developer,Full-time,27-04-2023,29-04-2003,91%,Personal,5,approved,nill
+tharun,34,tharun@email,1015 Oak St,developer,2022,EMP051,Excellent,good,developer,Active,team 21,Software Developer,Full-time,28-04-2023,30-04-2003,90%,none,0,nill,nill
+rakshith,32,rakshith@email,1016 Oak St,sales,2022,EMP052,Excellent,good,developer,Active,team 22,Software Developer,Full-time,29-04-2023,01-05-2003,94%,Maternity Leave,12,approved,congratulations
+martin,21,martin@email,1017 Oak St,Manager,2022,EMP053,Excellent,good,developer,Active,team 23,Software Developer,Full-time,30-04-2023,02-05-2003,72%,Personal,3,approved,nill
+justin,22,justin@email,1018 Oak St,developer,2022,EMP054,Excellent,good,developer,Active,team 24,Software Developer,Full-time,01-05-2023,03-05-2003,76%,sick,2,approved,get well soon
+chaitanya,34,chaitanya@email,1717 Spruce St,data analyst,2022,EMP055,good,good,developer,Active,team 25,Software Developer,Full-time,02-05-2023,04-05-2003,65%,sick,2,approved,get well soon
+David ,38,David@email,1718 Spruce St,Engineer,2023,EMP056,good,good,developer,Active,team 26,Software Developer,Full-time,03-05-2023,05-05-2003,82%,sick,2,pending,NILL
+sarath,36,sarath@email,1719 Spruce St,developer,2023,EMP057,good,good,developer,Active,team 27,Product Designer,Full-time,04-05-2023,06-05-2003,96%,Personal,5,approved,nill
+keviin,32,keviin@email,1720 Spruce St,Manager,2024,EMP058,good,good,developer,Active,team 28,"Product Designer,",Full-time,05-05-2023,07-05-2003,92%,sick,3,pending,nill
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
