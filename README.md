@@ -1,4 +1,4 @@
-# Company_Data_Visual
+# Company_Data_visualization
 
 ## DASHBOARD ##
 ![Screenshot (54)](https://github.com/maheshcoder/Company_Data_Visual--Ant_Design/assets/96939193/35a700e1-bd72-4988-b97b-3139c0443d48)
