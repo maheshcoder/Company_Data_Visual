@@ -1,7 +1,11 @@
 # Company_Data_visualization
 
+The dashboard features a clean and user-friendly interface, with a header and footer that provide easy navigation and a consistent layout. The header includes essential links and a search bar on the right side, while the footer contains copyright information and additional links. The dashboard also includes a calendar component implemented using Ant Design, allowing users to view and manage events with ease. Additionally, a todo list feature is integrated into the dashboard, providing a convenient way to mark and track tasks. These components are designed with Ant Design, ensuring a modern and responsive design for the dashboard.
+
+
 ## DASHBOARD ##
 ![Screenshot (54)](https://github.com/maheshcoder/Company_Data_Visual--Ant_Design/assets/96939193/35a700e1-bd72-4988-b97b-3139c0443d48)
+
 
 ## Features
 - Upload CSV files in Table1 to add company data.
