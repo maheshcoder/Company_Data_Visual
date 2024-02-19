@@ -1,6 +1,6 @@
 # Company_Data_visualization
 
-The dashboard features a clean and user-friendly interface, with a header and footer that provide easy navigation and a consistent layout. The header includes essential links and a search bar on the right side, while the footer contains copyright information and additional links. The dashboard also includes a calendar component implemented using Ant Design, allowing users to view and manage events with ease. Additionally, a todo list feature is integrated into the dashboard, providing a convenient way to mark and track tasks. These components are designed with Ant Design, ensuring a modern and responsive design for the dashboard.
+The Page  features a clean and user-friendly interface, with a header and footer that provide easy navigation and a consistent layout. The header includes essential logo on the left side and title on right side , while the footer contains copyright information and additional links. The dashboard also includes a calendar component implemented using Ant Design, allowing users to view and manage events with ease. Additionally, a todo list feature is integrated into the dashboard, providing a convenient way to mark and track tasks. These components are designed with Ant Design, ensuring a modern and responsive design for the dashboard.
 
 
 ## DASHBOARD ##
