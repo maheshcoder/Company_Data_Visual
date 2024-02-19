@@ -12,4 +12,8 @@
 ## TABLES
 ![Screenshot (55)](https://github.com/maheshcoder/Company_Data_Visual--Ant_Design/assets/96939193/d1b5ad11-20aa-4b5c-a0b7-f0f6a03c75a7)
 
+- Upload CSV files in Table1 to add company data.
+- View tables 2, 3, 4, and 5 to see imported data.
+- Navigate the dashboard to view the pie graph, calendar, to-do list, About page, headers, and footers.
+
 ## GRAPHS
