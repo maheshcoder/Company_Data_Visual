@@ -22,3 +22,16 @@ The Page  features a clean and user-friendly interface, with a header and footer
 
 ## GRAPHS
 ![Screenshot (58)](https://github.com/maheshcoder/Company_Data_Visual--Ant_Design/assets/96939193/7b66d00b-3a6e-4208-a091-3bed56b3d9ad)
+
+## Installation
+1. Clone the repository:
+git clone https://github.com/yourusername/yourrepository.git
+
+2. Install dependencies:
+cd yourrepository
+npm install
+
+3. Start the application:
+npm start
+
+4. Open http://localhost:3000 in your browser to view the dashboard.
