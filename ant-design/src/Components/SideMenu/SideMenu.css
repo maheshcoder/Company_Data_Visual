@@ -1,0 +1,33 @@
+.SideMenu {
+    width: 200px; /* Set the width of the side menu */
+    height: 100vh; /* Set the height to full viewport height */
+    background-color: #434343; /* Set the background color */
+    padding-top: 50px; /* Add some top padding */
+  }
+  
+  .SideMenu .ant-menu {
+    border-right: none; /* Remove the border on the right side of the menu */
+  }
+  
+  .SideMenu .ant-menu-item {
+    height: 50px; /* Set the height of each menu item */
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .SideMenu .ant-menu-inline-collapsed .ant-menu-item-icon {
+    margin-left: 0; /* Adjust the icon margin when the menu is collapsed */
+  }
+  
+  .SideMenu .ant-menu-item-selected {
+    background-color: #698eb2; /* Set the background color of the selected menu item */
+  }
+  
+  .SideMenu .ant-menu-item-selected a {
+    color: #434343; /* Set the text color of the selected menu item */
+  }
+  
+  .SideMenu .ant-menu-item a {
+    color: black; /* Set the default text color of menu items */
+  }
+  
