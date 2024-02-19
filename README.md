@@ -17,3 +17,4 @@
 - Navigate the dashboard to view the pie graph, calendar, to-do list, About page, headers, and footers.
 
 ## GRAPHS
+![Screenshot (58)](https://github.com/maheshcoder/Company_Data_Visual--Ant_Design/assets/96939193/7b66d00b-3a6e-4208-a091-3bed56b3d9ad)
