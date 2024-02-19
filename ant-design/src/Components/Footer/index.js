@@ -4,7 +4,7 @@ function Footer() {
     return(
     <div className ="Footer">
         
-        <Typography.Link>Terms of Use </Typography.Link>
+        <Typography.Link> Developed By Mahesh              Copyright@2024 </Typography.Link>
          </div>
     );
 }
